@@ -1,13 +1,15 @@
 {
   "_base": "https://raw.githubusercontent.com/tidalcycles/uzu-drumkit/main/",
   "bd": [
-    "bd/10_bd_switchangel.wav",
+    "bd/10_switchangel_bd.wav",
     "bd/11_bd_mot4i.wav",
     "bd/12_bd_mot4i.wav",
     "bd/13_bd_mot4i.wav",
     "bd/14_bd_switchangel.wav",
     "bd/15_bd_switchangel.wav",
-    "bd/16_bd_switchangel.wav"
+    "bd/16_bd_switchangel.wav",
+    "bd/17_bd_switchangel.wav",
+    "bd/18_switchangel_bd.wav"
   ],
   "breaks": [
     "breaks/10_break_amen_pprocessed.wav"
@@ -17,13 +19,15 @@
     "cp/11_cp_mot4i.wav"
   ],
   "cr": [
-    "cr/10_cr_mot4i.wav"
+    "cr/10_switchangel_cr.wav",
+    "cr/11_cr_mot4i.wav"
   ],
   "hh": [
-    "hh/10_hh_mot4i.wav",
-    "hh/11_hh_switchangel.wav",
+    "hh/10_switchangel_hh.wav",
+    "hh/11_hh_mot4i.wav",
     "hh/12_hh_switchangel.wav",
-    "hh/13_hh_mot4i.wav"
+    "hh/13_hh_switchangel.wav",
+    "hh/14_hh_mot4i.wav"
   ],
   "ht": [
     "ht/10_ht_mot4i.wav"
@@ -35,20 +39,26 @@
     "mt/10_mt_mot4i.wav"
   ],
   "oh": [
-    "oh/10_oh_switchangel.wav",
+    "oh/10_switchangel_oh.wav",
     "oh/11_oh_switchangel.wav",
-    "oh/12_oh_switchangel.wav"
+    "oh/12_oh_switchangel.wav",
+    "oh/13_oh_switchangel.wav"
   ],
   "perc": [
     "perc/10_perc_switchangel.wav"
   ],
+  "rd": [
+    "rd/switchangel_rd.wav"
+  ],
   "rim": [
-    "rim/10_rim_switch_angel.wav"
+    "rim/11_rim_switch_angel.wav",
+    "rim/switchangel_rim.wav"
   ],
   "sd": [
-    "sd/10_sd_switchangel_3.wav",
-    "sd/11_sd_switchangel_2.wav",
+    "sd/10_switchangel_sd.wav",
+    "sd/11_sd_switchangel_3.wav",
     "sd/12_sd_switchangel_2.wav",
-    "sd/13_sd.wav"
+    "sd/13_sd_switchangel_2.wav",
+    "sd/14_sd.wav"
   ]
 }
