@@ -7,3 +7,4 @@ Contributers log:
   
 - Switch Angel (provided synthesized drum sounds processed with a la76 style analog compressor)
 
+- (Ludens + Switch Angel) recorded the misc sounds on modular synthesizer during a sound design session

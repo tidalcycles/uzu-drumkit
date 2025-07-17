@@ -10,8 +10,11 @@
     "bd/16_bd_switchangel.wav",
     "bd/17_bd_switchangel.wav"
   ],
-  "breaks": [
-    "breaks/10_break_amen_pprocessed.wav"
+  "brk": [
+    "brk/10_break_amen_pprocessed.wav"
+  ],
+  "cb": [
+    "cb/10_perc_switchangel.wav"
   ],
   "cp": [
     "cp/10_cp_switchangel.wav",
@@ -34,6 +37,13 @@
   "lt": [
     "lt/10_lt_mot4i.wav"
   ],
+  "misc": [
+    "misc/10_misc_switchangel_ludens.wav",
+    "misc/11_misc_switchangel_ludens.wav",
+    "misc/12_misc_switchangel_ludens.wav",
+    "misc/13_misc_switchangel_ludens.wav",
+    "misc/14_misc_switchangel_ludens.wav"
+  ],
   "mt": [
     "mt/10_mt_mot4i.wav"
   ],
@@ -43,9 +53,6 @@
     "oh/12_oh_switchangel.wav",
     "oh/13_oh_switchangel.wav"
   ],
-  "perc": [
-    "perc/10_perc_switchangel.wav"
-  ],
   "rd": [
     "rd/10_rd_switchangel.wav"
   ],
@@ -54,10 +61,16 @@
     "rim/11_rim_switch_angel.wav"
   ],
   "sd": [
-    "sd/10_sd_switchangel.wav",
+    "sd/10_sd_switchangel-bounce-2.wav",
     "sd/11_sd_switchangel_3.wav",
     "sd/12_sd_switchangel_2.wav",
     "sd/13_sd_switchangel_2.wav",
     "sd/14_sd.wav"
+  ],
+  "sh": [
+    "sh/10_sh_switchangel.wav"
+  ],
+  "tb": [
+    "tb/10_tb.wav"
   ]
 }
